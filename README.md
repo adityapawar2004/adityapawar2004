@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="400" alt="Coding" src="https://c4.wallpaperflare.com/wallpaper/631/564/936/web-development-desk-flatdesign-wallpaper-preview.jpg"/>
+<img align="center" width="1000" height="300" alt="Coding" src="https://c4.wallpaperflare.com/wallpaper/631/564/936/web-development-desk-flatdesign-wallpaper-preview.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
