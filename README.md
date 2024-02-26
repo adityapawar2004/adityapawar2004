@@ -5,7 +5,7 @@
 <img align="right" width="400" alt="Coding" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471ud1dzgsnul0hfp0rr8kelo3ltzr7ckiu74yq63d&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapawar2004&label=Profile%20views&color=0e75b6&style=flat" alt="adityapawar2004" /> </p>
 
-- 🏫 Sophomore at IIITDMJ pursuing B.Tech in ECE
+- 🏫 Pre-Final Year at IIITDMJ pursuing B.Tech in ECE
 
 - 🔭 I’m currently working on **Backend Stuff**
 
